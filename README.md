@@ -1,4 +1,4 @@
 # hello-world
 First repository
 
-getting started woth github
+getting started with github
